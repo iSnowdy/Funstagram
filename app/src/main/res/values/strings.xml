@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">Funstagram</string>
+
+    <string name="headerSignIn">Sign In</string>
+
+    <string name="emailTextView">Email</string>
+    <string name="emailEditText">Email Address</string>
+
+    <string name="passwordTextView">Password</string>
+    <string name="repeatPasswordTextView">Repeat password</string>
+    <string name="passwordEditText">Enter your password</string>
+
+    <string name="forgotTextView">Forgot password?</string>
+
+    <string name="googleSignIn">Sign in with Google</string>
+
+    <string name="signInButton">Sign In</string>
+    <string name="signUpButton">Sign Up</string>
+
+    <string name="username">Username</string>
+
+    <!-- link.setText(Html.fromHtml(str_text)); -->
+    <string name="tandc">By ticking this, you are confirming that you have read, understood
+    and agreed to our <a href="https://google.com/">Terms and Conditions</a></string>
+
+    <string name="welcomeMessage">Trick or Treat! Welcome %s!</string>
+
+    <string name="welcomeButton">Click here to access</string>
+
+</resources>
